@@ -1,3 +1,3 @@
 # Esj
 
-Code repository for Esj applictions
+Code repository for Esj Applications
